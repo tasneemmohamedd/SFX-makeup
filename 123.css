@@ -1,0 +1,195 @@
+html{
+  background-color:#540808
+
+}
+
+
+
+body{
+  font-family:Tahoma,sans-serif;
+  font-size: 97%;
+
+}
+
+.header{
+padding-top: 20px;
+color: #d11b1b;
+text-align: center;
+}
+
+h1{
+  color:#d11b1b;
+  text-align: center;
+}
+
+
+
+
+
+p {
+  color: black
+}
+
+h2 {
+  color: #a80000
+
+}
+
+h3 {
+  color: #a80000
+}
+
+ol {
+  color: black;
+}
+
+ul{
+  color:black;
+}
+
+dd{
+  color:black;
+}
+form{
+color: black;
+text-align:center;
+
+}
+.container{
+  background-color:white;
+  max-width:700px;
+  margin-left:auto;
+  margin-right:auto;
+  padding-top: 10px;
+  padding-left:10px;
+}
+
+
+.container2{
+  background-color:white;
+  max-width:900px;
+  margin-left:auto;
+  margin-right:auto;
+  padding-top: 10px;
+  padding-left:10px;
+}
+
+.content{
+    border-top: 2px solid grey;
+    border-bottom: 2px solid grey;
+    padding left:5px;
+    padding-right:5px;
+    padding-bottom: 10px;
+}
+
+.content2{
+
+  border-top: 2px solid grey;
+  border-bottom: 2px solid grey;
+  padding-left:10px;
+  padding-right:17px;
+  padding-top:20px;
+padding-bottom: 20px;
+}
+
+
+.content3{
+  border-top: 2px solid grey;
+  border-bottom: 2px solid grey;
+  padding left:5px;
+  padding-right:5px;
+  padding-top:20px;
+padding-bottom: 20px;
+}
+
+.content4{
+  border-top: 2px solid grey;
+  border-bottom: 2px solid grey;
+  padding left:5px;
+  padding-right:5px;
+
+padding-bottom: 20px;
+
+}
+
+.mainarea{
+width:50%;
+  padding-left:10px;
+  padding-top: 10px;
+  padding-bottom:5px;
+  margin-right: 3px;
+  float:left;
+
+}
+
+.mainarea p {
+  text-align:left;
+}
+
+.mainarea   a {
+  text-align: right;
+
+}
+
+.mainarea2{
+  background-color:#e6e6e6;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+
+.mainarea3{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.area2{
+  width:40%;
+  float:right;
+  margin-top:30px;
+  padding left:10px;
+  padding-right: 5px;
+margin-right:20px;
+}
+
+.fix {
+  clear:both;
+}
+
+
+.site-nav li{
+  list-style: none;
+  float: left;
+  margin-right:10px;
+}
+
+.site-nav a {
+  display: block;
+  text-decoration: none;
+  color: #d11b1b;
+  padding: 10px 20px;
+  border: 2px solid #a17777;
+  border-bottom: none
+}
+
+
+.site-nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+
+.site-nav{
+  margin-top: 20px
+}
+
+.site-nav a:hover{
+  background-color:#faeded;
+}
+
+footer .highlight{
+  text-align: center;
+  font-size: 85%;
+  color:grey;
+  padding-bottom: 20px;
+  padding-top: 20px;
